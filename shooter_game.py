@@ -3,6 +3,8 @@
 from pygame import *
 from random import *
 
+# привет ))))
+
 r = 700
 r2 = 500
 window = display.set_mode((r, r2))
