@@ -4,6 +4,7 @@ from pygame import *
 from random import *
 
 # привет ))))
+# как дела? 
 
 r = 700
 r2 = 500
@@ -105,3 +106,4 @@ while game:
         if e.type == QUIT:
             game = False
     display.update()
+    
